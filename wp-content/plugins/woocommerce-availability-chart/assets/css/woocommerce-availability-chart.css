@@ -1,0 +1,20 @@
+.variation-name {
+	
+}
+.bar {
+	background-color: #ddd; /* Empty part of bar */
+	height: 25px;
+	width: 100%;
+}
+.filled {
+	background-color: #70BAFD; /* The filled bar color */
+	height: 100%;
+	padding-left: 10px;
+	color: #6F6F6F; /* Stock quantity text color */
+	text-align: center;
+}
+
+.out-of-stock {
+    margin-left: 10px;
+    padding-left: 0px;
+}
